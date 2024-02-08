@@ -1,0 +1,10 @@
+venv
+FreeEnt/.build
+
+.idea
+.vscode
+*.pyc
+*.pyd
+*.smc
+*.sfc
+__pycache__/

@@ -180,7 +180,6 @@ F4C_FILES = '''
     scripts/mist_clip_fix.f4c
     scripts/status_text_fix.f4c
     scripts/fusoya_room.f4c
-    scripts/black_shirt_fix.f4c
     scripts/no_save_point_message.f4c
     scripts/blank_textbox_fix.f4c
     scripts/cycle_party_leader.f4c
